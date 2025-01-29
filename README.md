@@ -1,5 +1,7 @@
 # Amazon-clone
 
+Amazon home page using HTML and CSS
+
 ABOUT US
 
 We are Priyanshu Shekhar and Vikas, first-year IT students at IIIT Allahabad. As beginners in the field of web development, we wanted to take on a project that would help us improve our skills and understanding of how websites are built. Together, we created a simple clone of Amazon using only HTML and CSS. This project focuses on replicating the design and layout of Amazon's website. It helped us learn how to structure web pages and style them to look professional. While the clone doesn’t include advanced features like JavaScript or backend functionality, it reflects our hard work and commitment to learning the basics of web development. We are excited to continue building our skills and working on more complex projects in the future.
